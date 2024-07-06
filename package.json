@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node ./js/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
